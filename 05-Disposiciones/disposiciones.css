@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.divisor {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.galery {
+    width: 300px;
+    
+}
+.galery:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
