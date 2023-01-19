@@ -1,0 +1,14 @@
+.btn-modern {
+    background-color: rgb(226, 151, 226);
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+}
+.btn-modern:hover{
+    background-color: rgb(204, 88, 204);
+    color: white;
+    cursor: pointer;
+    box-shadow: 3px 5px 5px 1px purple;
+    transform: translateY(-5px);
+    transition: all 0.4s;
+}
