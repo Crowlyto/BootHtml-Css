@@ -1,0 +1,21 @@
+.row div {
+    margin: 0.3rem;
+}
+.col {
+    background-color: blueviolet;
+}
+.col-sm {
+    background-color: blue;
+}
+.col-md {
+    background-color: purple;
+}
+.col-lg {
+    background-color: darkorange;
+}
+.col-xl {
+background-color: darkcyan;
+}
+.col-xxl {
+    background-color: darkgreen;
+}
